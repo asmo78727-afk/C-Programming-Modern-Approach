@@ -8,7 +8,8 @@ My personal solutions to the programming projects from the book **"C Programming
 - `ch03/` - Formatted Input/Output
 - `ch04/` - Expressions
 - `ch05/` - Selection Statements
-  
+- `ch06/` - Loops
+
 ## 🛠️ Requirements & Compilation
 
 To compile and run any of the `.c` files, you can use **GCC** in your terminal:
