@@ -11,6 +11,7 @@ My personal solutions to the programming projects from the book **"C Programming
 - `ch06/` - Loops
 - `ch07/` - Basic Types
 - `ch08/` - Arrays
+- `ch09/` - Functions
 ## 🛠️ Requirements & Compilation
 
 To compile and run any of the `.c` files, you can use **GCC** in your terminal:
