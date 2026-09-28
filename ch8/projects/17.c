@@ -56,7 +56,7 @@ int main(void)
     again:if (array1[row][col] == 0) {
         ++array_number;
         array1[row][col] = array_number;
-        if (array_number == 25)break;
+        if (array_number == n*n)break;
     }
     else {
         row = old_row;
