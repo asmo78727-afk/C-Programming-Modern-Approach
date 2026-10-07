@@ -13,6 +13,8 @@ My personal solutions to the programming projects from the book **"C Programming
 - `ch08/` - Arrays
 - `ch09/` - Functions
 - `ch10/` - Program Organization
+- `ch11/` - Pointers
+
 ## 🛠️ Requirements & Compilation
 
 To compile and run any of the `.c` files, you can use **GCC** in your terminal:
