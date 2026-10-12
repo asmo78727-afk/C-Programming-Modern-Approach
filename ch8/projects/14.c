@@ -23,7 +23,7 @@ int main(void)
     for (int j = i; j >= -1; j--) {
         if (sentenes[j] == ' ' || j == -1) {
             word_count = j + 1;
-            while (sentenes[word_count] != ' ' && sentenes[word_count] != '?' && sentenes[word_count] != '!') {
+            while (sentenes[word_count] != ' ' && sentenes[word_count] != '?' && sentenes[word_count] != '!' &&sentenes[word_count] != '\n') {
                 printf("%c", sentenes[word_count]);
                 word_count++;
             }
