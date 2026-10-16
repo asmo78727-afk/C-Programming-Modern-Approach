@@ -60,12 +60,12 @@ int main(void)
     }
     if(p==arr+99){
         p--;
-    }else if(*p=='\n'){
+    }
+    if(*p=='\n'){
         if(p==arr){
             *p=-1;
-        }else {
-           printf("invaild value");
-        }
+        }else p--;
+
     }
     //printf("%c %c\n",arr[i],arr[0]);
     for(; p>q ; p--, q++){
