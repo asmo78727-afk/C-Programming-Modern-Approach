@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1792786784 source:c:\users\asmaa\desktop\1\main.c
+	<string.h>
+	<stdio.h>
+	"line.h"
+	"word.h"
+
+1792348532 c:\users\asmaa\desktop\1\stack.h
+	<stdbool.h>
+
+1792355055 c:\users\asmaa\desktop\1\token.h
+
+1792355501 source:c:\users\asmaa\desktop\1\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1792348532 source:c:\users\asmaa\desktop\1\token.c
+	<stdio.h>
+	<ctype.h>
+	"token.h"
+
+1792786784 c:\users\asmaa\desktop\1\line.h
+
+1792786784 c:\users\asmaa\desktop\1\word.h
+
+1792786784 source:c:\users\asmaa\desktop\1\word.c
+	<stdio.h>
+	"word.h"
+
+1792960608 source:c:\users\asmaa\desktop\1\line.c
+	<stdio.h>
+	<string.h>
+	"line.h"
+
